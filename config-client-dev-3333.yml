@@ -3,4 +3,4 @@ spring:
   application:
     name: config-client
 hello:
-  sssss-dd
+  sssss-dd-ss
